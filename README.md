@@ -1,23 +1,23 @@
-# MehirSaxena
-# Hi 👋, I'm Mehir Saxena
+<div align="center">
 
-## Summer Intern @ IBM | Ex-Intern @ IIT Roorkee
+<img src="banner.gif" width="100%">
 
-🎓 B.Tech CSE Student at UPES
+# Hi, I'm Mehir Saxena
 
-💡 Interested in:
-- Data Science
-- Artificial Intelligence
-- Machine Learning
-- Software Development
-- Research
+### Summer Intern @ IBM | Ex-Intern @ IIT Roorkee
 
-## Skills
+Passionate about Data Science, Artificial Intelligence, Machine Learning, Research, and Software Development.
 
-Python | Java | SQL | Machine Learning | Data Analysis | Power BI | Git | GitHub
+</div>
 
-## Connect With Me
+---
 
-LinkedIn: (www.linkedin.com/in/mehirs)
+# 💻 Tech Stack
 
-Email: (mehirsaxena34@gmail.com)
+Coming Soon...
+
+---
+
+# 📊 GitHub Stats
+
+Coming Soon...
